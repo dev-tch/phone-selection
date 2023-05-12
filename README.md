@@ -1,6 +1,6 @@
 # phone-selection
 
-### description of functinnaly  implmented :
+### description of functionality implemented :
 
 - the first interface is html Form  which helps the user to choose a smartphone brand 
 - after clicking  the button submit ; we send  the parameter with resuest Post 
