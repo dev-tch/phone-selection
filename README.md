@@ -1,4 +1,4 @@
-# phone-selction
+# phone-selection
 
 ### description of functinnaly  implmented :
 
@@ -10,9 +10,9 @@
 
 ### parts MVC structure 
 
-phoneExpert.java : business logic ( Model )
-result.jsp       : presentation   ( View )
-PhoneSelect.java : servlet middleware between View && model (Controller )
+- phoneExpert.java : business logic ( Model )
+- result.jsp       : presentation   ( View )
+- PhoneSelect.java : servlet middleware between View && model (Controller )
 
 
 ### test 
